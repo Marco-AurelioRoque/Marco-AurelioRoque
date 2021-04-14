@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá! 👋
 
-<!--
-**Marco-AurelioRoque/Marco-AurelioRoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### SOBRE
+Meu nome é Marco Aurélio tenho 15 anos, amo a tecnologia, por isso decidi me aventurar nesse mundo incrível da programação, por enquanto estou estudando o Front-End, sempre com foco e dedicação.
+---
+### METAS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Dominar o HTML5 e CSS3 📕📘
+- Aprender JavaScript e o que tem de mais moderno 📙
+- Aprender sobre, banco de dados, API's, etc. para o Back-End 💻
+- Aprender sobre o desenvolvimento de apps mobile 📱
+- Conhecer mais sobre o desenvolvimento de jogos 🎮
+- FULLSTACK
