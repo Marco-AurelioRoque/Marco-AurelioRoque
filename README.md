@@ -12,7 +12,7 @@
 - Conhecer mais sobre o desenvolvimento de jogos 🎮
 - FULLSTACK
 
-### Skills
+### LINGUAGENS E FERRAMENTAS
 
 ![HTML5](https://imagehost7.online-image-editor.com/oie_upload/images/1523125JyzTGFlf/161057PrI9BYcV.png)
 ![CSS3](https://imagehost7.online-image-editor.com/oie_upload/images/1523359hs85aX/161340QuVn51Mq.png)
