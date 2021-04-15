@@ -11,3 +11,7 @@ Meu nome é Marco Aurélio tenho 15 anos, amo a tecnologia, por isso decidi me a
 - Aprender sobre o desenvolvimento de apps mobile 📱
 - Conhecer mais sobre o desenvolvimento de jogos 🎮
 - FULLSTACK
+
+###Linguagens e ferramentas
+
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
