@@ -24,8 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="60px" heigth="60px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="60px" heigth="60px"/>
 
-
-
 ---
+### CONTRIBUIÇÕES
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco-AurelioRoque&show_icons=true&theme=radical)
