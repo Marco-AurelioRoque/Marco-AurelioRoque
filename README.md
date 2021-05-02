@@ -19,7 +19,6 @@
 ![image](https://user-images.githubusercontent.com/80369075/116828717-cf756500-ab76-11eb-8fd5-ef48c5904a12.png)
 ![image](https://image.flaticon.com/icons/png/128/732/732190.png)
 
-
 ---
 ### CONTRIBUIÇÕES
 
