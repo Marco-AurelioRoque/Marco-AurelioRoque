@@ -16,7 +16,9 @@
 
 ### LINGUAGENS E FERRAMENTAS
 
-
+![image](https://user-images.githubusercontent.com/80369075/116801376-cc7b6580-aadf-11eb-894d-0af2c752a756.png)
+![image](https://user-images.githubusercontent.com/80369075/116801379-d8672780-aadf-11eb-8a39-6a4992b353e2.png)
+![image](https://user-images.githubusercontent.com/80369075/116801382-dc934500-aadf-11eb-9669-dc4d8aacecf7.png)
 
 ---
 ### CONTRIBUIÇÕES
