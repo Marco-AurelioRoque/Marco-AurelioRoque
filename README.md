@@ -17,8 +17,8 @@
 ### LINGUAGENS E FERRAMENTAS
 
 ![HTML5](https://imagehost7.online-image-editor.com/oie_upload/images/1523125JyzTGFlf/161057PrI9BYcV.png)
-![CSS3](https://imagehost7.online-image-editor.com/oie_upload/images/1523359hs85aX/161340QuVn51Mq.png)
-![JavaScript](https://imagehost7.online-image-editor.com/oie_upload/images/15236146jj0i/161441NCmzC7E1.png)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 
 ---
 ### CONTRIBUIÇÕES
