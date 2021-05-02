@@ -18,7 +18,7 @@
 
 ![HTML5](https://imagehost7.online-image-editor.com/oie_upload/images/1523125JyzTGFlf/161057PrI9BYcV.png)
 ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width:"50px" height:"50px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width:"50" height:"50" />
 
 ---
 ### CONTRIBUIÇÕES
