@@ -3,7 +3,7 @@
 ### SOBRE
 #### Meu nome é Marco Aurélio tenho 15 anos, amo a tecnologia, por isso decidi me aventurar nesse mundo incrível da programação, por enquanto estou estudando o Front-End, sempre com foco e dedicação.
 ---
-### METAS
+### Objetivos
 
 - Dominar o HTML5 e CSS3 
 - Aprender JavaScript e o que tem de mais moderno 
